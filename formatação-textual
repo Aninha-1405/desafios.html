@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação Textual</title>
+  <head>
+    <body>
+
+<p>Star!!</p>
+  <h1>bom dia</h1>
+  <h2>boa tarde</h2>
+  <h3>boa noite</h3>
+  <br><br>
+        
+<b>BOM DIA</b>
+<br><br>
+<i>BOA TARDE</i>
+<br><br>
+<u>BOA NOITE</u>
+<br><br>
+
+</body>
+</html>
+      
